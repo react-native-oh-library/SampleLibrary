@@ -1,0 +1,7 @@
+{
+  module: {
+    name: 'centered_text_capi',
+    type: 'har',
+    deviceTypes: ['default'],
+  },
+}

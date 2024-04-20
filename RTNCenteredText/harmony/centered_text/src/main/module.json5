@@ -1,0 +1,7 @@
+{
+  module: {
+    name: 'centered_text',
+    type: 'har',
+    deviceTypes: ['default'],
+  },
+}
