@@ -10,4 +10,4 @@ This project is based on [react-native-xxx (原库NPM包名)](原库github/gitee
 
 ## License
 
-This library is licensed under [The MIT License (MIT)](https://github.com/react-native-oh-library/react-native-harmony-sample-package/blob/sig/LICENSE)
+This library is licensed under [The MIT License (MIT)]([https://github.com/react-native-oh-library/react-native-harmony-sample-package/blob/sig/LICENSE](https://github.com/software-mansion/react-native-svg/blob/main/LICENSE))
